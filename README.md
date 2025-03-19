@@ -52,3 +52,4 @@ export default tseslint.config({
   },
 })
 ```
+# a-good-clicker-game
